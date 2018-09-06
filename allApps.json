@@ -1,0 +1,165 @@
+{
+  "version": "1",
+  "apps": [
+    {
+      "name": "Goldilocks",
+      "iconPath": "https://user-images.githubusercontent.com/36864962/45132381-b8301080-b15e-11e8-9271-390282904ea9.png",
+      "languages": [
+        {
+          "code": "en",
+          "name": "Goldilocks"
+        },
+        {
+          "code": "es",
+          "name": "Ricitos de Oro"
+        },
+        {
+          "code": "fr",
+          "name": "Boucle D'or et les Trois Ours"
+        },
+        {
+          "code": "de",
+          "name": "Goldlöckchen und die drei Bären"
+        },
+        {
+          "code": "it",
+          "name": "Riccioli d'oro ed i Tre Orsi"
+        },
+        {
+          "code": "ru",
+          "name": "Три Медведя"
+        }
+      ],
+      "platforms": [
+        {
+          "name": "IPhonePlayer",
+          "storePath": "itms-apps://itunes.apple.com/us/app/goldilocks-three-bears-book/id513536832?mt=8"
+        },
+        {
+          "name": "OSXEditor",
+          "storePath": "itms-apps://itunes.apple.com/us/app/goldilocks-three-bears-book/id513536832?mt=8"
+        }
+      ]
+    },
+    {
+      "name": "PeterPan",
+      "iconPath": "https://user-images.githubusercontent.com/36864962/45132460-12c96c80-b15f-11e8-9b5f-1d7e5246a6a1.png",
+      "languages": [
+        {
+          "code": "en",
+          "name": "Peter Pan"
+        },
+        {
+          "code": "es",
+          "name": "Peter Pan"
+        },
+        {
+          "code": "fr",
+          "name": "Peter Pan"
+        },
+        {
+          "code": "de",
+          "name": "Peter Pan"
+        },
+        {
+          "code": "it",
+          "name": "Peter Pan"
+        },
+        {
+          "code": "ru",
+          "name": "Питер Пэн"
+        }
+      ],
+      "platforms": [
+        {
+          "name": "IPhonePlayer",
+          "storePath": "itms-apps://itunes.apple.com/us/app/peter-pan-book-games/id957617397?mt=8"
+        },
+        {
+          "name": "OSXEditor",
+          "storePath": "itms-apps://itunes.apple.com/us/app/peter-pan-book-games/id957617397?mt=8"
+        }
+      ]
+    },
+    {
+      "name": "Cinderella",
+      "iconPath": "https://user-images.githubusercontent.com/36864962/45132376-b2d2c600-b15e-11e8-8219-236eb55327e3.png",
+      "languages": [
+        {
+          "code": "en",
+          "name": "Cinderella"
+        },
+        {
+          "code": "es",
+          "name": "Cenicienta"
+        },
+        {
+          "code": "fr",
+          "name": "Cendrillon"
+        },
+        {
+          "code": "de",
+          "name": "Aschenputtel"
+        },
+        {
+          "code": "it",
+          "name": "Cenerentola"
+        },
+        {
+          "code": "ru",
+          "name": "Золушка"
+        }
+      ],
+      "platforms": [
+        {
+          "name": "IPhonePlayer",
+          "storePath": "itms-apps://itunes.apple.com/us/app/cinderella-book-games/id589726971?mt=8"
+        },
+        {
+          "name": "OSXEditor",
+          "storePath": "itms-apps://itunes.apple.com/us/app/cinderella-book-games/id589726971?mt=8"
+        }
+      ]
+    },
+    {
+      "name": "LittlePigs",
+      "iconPath": "https://user-images.githubusercontent.com/36864962/45132334-86b74500-b15e-11e8-83a1-99e2e152063f.png",
+      "languages": [
+        {
+          "code": "en",
+          "name": "The Three Little Pigs"
+        },
+        {
+          "code": "es",
+          "name": "Los Tres Cochinitos"
+        },
+        {
+          "code": "fr",
+          "name": "Les 3 Petits Cochons"
+        },
+        {
+          "code": "de",
+          "name": "Die 3 Kleinen Schweinchen"
+        },
+        {
+          "code": "it",
+          "name": "I 3 porcellini"
+        },
+        {
+          "code": "ru",
+          "name": "Три поросёнка"
+        }
+      ],
+      "platforms": [
+        {
+          "name": "IPhonePlayer",
+          "storePath": "itms-apps://itunes.apple.com/us/app/the-3-little-pigs-book-games/id602289654?mt=8"
+        },
+        {
+          "name": "OSXEditor",
+          "storePath": "itms-apps://itunes.apple.com/us/app/the-3-little-pigs-book-games/id602289654?mt=8"
+        }
+      ]
+    }
+  ]
+}
