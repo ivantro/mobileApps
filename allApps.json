@@ -2,7 +2,7 @@
   "version": "1",
   "apps": [
     {
-      "name": "Goldilocks",
+      "id": "Goldilocks",
       "iconPath": "https://user-images.githubusercontent.com/36864962/45132381-b8301080-b15e-11e8-9271-390282904ea9.png",
       "languages": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "PeterPan",
+      "id": "PeterPan",
       "iconPath": "https://user-images.githubusercontent.com/36864962/45132460-12c96c80-b15f-11e8-9b5f-1d7e5246a6a1.png",
       "languages": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Cinderella",
+      "id": "Cinderella",
       "iconPath": "https://user-images.githubusercontent.com/36864962/45132376-b2d2c600-b15e-11e8-8219-236eb55327e3.png",
       "languages": [
         {
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "LittlePigs",
+      "id": "LittlePigs",
       "iconPath": "https://user-images.githubusercontent.com/36864962/45132334-86b74500-b15e-11e8-83a1-99e2e152063f.png",
       "languages": [
         {
