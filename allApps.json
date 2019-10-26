@@ -1,5 +1,5 @@
 {
-  "version": "1",
+  "version": "1.1",
   "apps": [
     {
       "id": "Goldilocks",
@@ -39,7 +39,8 @@
           "name": "OSXEditor",
           "storePath": "itms-apps://itunes.apple.com/us/app/goldilocks-three-bears-book/id513536832?mt=8"
         }
-      ]
+      ],
+      "appleStoreId": "513536832"
     },
     {
       "id": "PeterPan",
@@ -79,7 +80,8 @@
           "name": "OSXEditor",
           "storePath": "itms-apps://itunes.apple.com/us/app/peter-pan-book-games/id957617397?mt=8"
         }
-      ]
+      ],
+      "appleStoreId": "957617397"
     },
     {
       "id": "Cinderella",
@@ -119,7 +121,8 @@
           "name": "OSXEditor",
           "storePath": "itms-apps://itunes.apple.com/us/app/cinderella-book-games/id589726971?mt=8"
         }
-      ]
+      ],
+      "appleStoreId": "589726971"
     },
     {
       "id": "LittlePigs",
@@ -159,7 +162,8 @@
           "name": "OSXEditor",
           "storePath": "itms-apps://itunes.apple.com/us/app/the-3-little-pigs-book-games/id602289654?mt=8"
         }
-      ]
+      ],
+      "appleStoreId": "602289654"
     }
   ]
 }
