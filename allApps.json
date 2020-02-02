@@ -33,11 +33,11 @@
       "stores": [
         {
           "name": "iOSStorePath",
-          "storePath": "itms-apps://itunes.apple.com/us/app/goldilocks-three-bears-book/id513536832?mt=8"
+          "value": "itms-apps://itunes.apple.com/us/app/goldilocks-three-bears-book/id513536832?mt=8"
         },
         {
           "name": "appleStoreId",
-          "storePath": "513536832"
+          "value": "513536832"
         }
       ]
     },
@@ -73,11 +73,11 @@
       "stores": [
         {
           "name": "iOSStorePath",
-          "storePath": "itms-apps://itunes.apple.com/us/app/peter-pan-book-games/id957617397?mt=8"
+          "value": "itms-apps://itunes.apple.com/us/app/peter-pan-book-games/id957617397?mt=8"
         },
         {
           "name": "appleStoreId",
-          "storePath": "957617397"
+          "value": "957617397"
         }
       ]
     },
@@ -113,11 +113,11 @@
       "stores": [
         {
           "name": "iOSStorePath",
-          "storePath": "itms-apps://itunes.apple.com/us/app/cinderella-book-games/id589726971?mt=8"
+          "value": "itms-apps://itunes.apple.com/us/app/cinderella-book-games/id589726971?mt=8"
         },
         {
           "name": "appleStoreId",
-          "storePath": "589726971"
+          "value": "589726971"
         }
       ]
     },
@@ -153,11 +153,11 @@
       "stores": [
         {
           "name": "iOSStorePath",
-          "storePath": "itms-apps://itunes.apple.com/us/app/the-3-little-pigs-book-games/id602289654?mt=8"
+          "value": "itms-apps://itunes.apple.com/us/app/the-3-little-pigs-book-games/id602289654?mt=8"
         },
         {
           "name": "appleStoreId",
-          "storePath": "602289654"
+          "value": "602289654"
         }
       ]
     }
