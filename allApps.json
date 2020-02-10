@@ -160,6 +160,47 @@
           "value": "602289654"
         }
       ]
+    },
+    {
+      "id": "MyLittleTrainAR",
+      "iconPath": "https://user-images.githubusercontent.com/36864962/74191855-5eb8f480-4c22-11ea-8931-15fcdeaab63f.png",
+      "languages": [
+        {
+          "code": "en",
+          "name": "My Little Train AR"
+        },
+        {
+          "code": "es",
+          "name": "Mi Trenecito AR"
+        },
+        {
+          "code": "fr",
+          "name": "My Little Train AR"
+        },
+        {
+          "code": "de",
+          "name": "My Little Train AR"
+        },
+        {
+          "code": "it",
+          "name": "My Little Train AR"
+        }
+      ],
+      "stores": [
+        {
+          "name": "iOSStorePath",
+          "value": "itms-apps://itunes.apple.com/us/app/my-little-train-ar/id1286572342?mt=8"
+        },
+        {
+          "name": "appleStoreId",
+          "value": "1286572342"
+        },
+        {
+          "name": "iOSRequiresAR",
+          "value": "yes"
+        }
+      ]
     }
   ]
 }
+
