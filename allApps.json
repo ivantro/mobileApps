@@ -108,6 +108,14 @@
         {
           "code": "ru",
           "name": "Золушка"
+        },
+        {
+          "code": "pt",
+          "name": "Cinderela"
+        },
+        {
+          "code": "zh",
+          "name": "灰姑娘"
         }
       ],
       "stores": [
